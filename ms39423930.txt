@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "ubersuggest.live",
+  "Id": "2c51b68a-2472-48c7-a580-cca78c00d04a"
+}
